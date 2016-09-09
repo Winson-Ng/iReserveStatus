@@ -10,6 +10,7 @@
 </script>
 </head>
 <body>
+<?php echo 'hello' ?>
 The content of the document......
 <table>
 </table>
